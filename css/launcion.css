@@ -1,8 +1,6 @@
 /*
 
-TemplateMo 583 Festava Live
-
-https://templatemo.com/tm-583-festava-live
+Digitjezpty Template
 
 */
 
@@ -988,6 +986,10 @@ strong {
     font-size: var(--h5-font-size);
     width: 50px;
     height: 50px;
+}
+
+.artists-hover {
+    bottom: -15px;
 }
 
   .schedule-table h3 {

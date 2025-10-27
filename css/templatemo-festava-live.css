@@ -730,12 +730,12 @@ strong {
     position: relative;
     padding: 50px;
     background-image: url(../images/FondoPredica.png);
-    /* object-fit: cover; */
-    /* object-position: 0%; */
-    /* background-repeat: repeat; */
     background-repeat: no-repeat;
-    background-position: 90% 55%;
-    background-size: 103% 182%;
+    background-position: 62% 55%;
+    background-size: 103% 102%;
+
+  
+
 }
 
 .pricing-thumb h3 small {
@@ -974,7 +974,21 @@ strong {
 
   .pricing-thumb {
     padding: 35px;
+    background-repeat: no-repeat;
+     background-position: 69% 13%;
+    background-size: 595% 102%;
   }
+
+.about-text-info {
+    margin: 20px;
+    padding: 7px;
+}
+
+.about-text-icon {
+    font-size: var(--h5-font-size);
+    width: 50px;
+    height: 50px;
+}
 
   .schedule-table h3 {
     font-size: 22px;
